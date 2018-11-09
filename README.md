@@ -1,5 +1,5 @@
 # GUI-for-3D-Shape-Modi-cation-and-Printing
-This is a video demo for the projec
+This is a video demo for the project.
 (GUI for 3D Shape Modification and Printing)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=reia9jfJZPk
